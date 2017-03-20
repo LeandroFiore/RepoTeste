@@ -10,5 +10,6 @@ namespace Fiore.Licenca
     {
         public string Nome { get; set; }
         public string ChaveProduto { get; set; }
+        public string versao { get; set; }
     }
 }
